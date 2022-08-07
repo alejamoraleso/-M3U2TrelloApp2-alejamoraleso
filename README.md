@@ -1,1 +1,1 @@
-# M3U2TrelloApp2-alejamoraleso
+Desarrollo tipo Trello, en HTML, CSS y JavaScript para el diplomado de ReacJs de la Fundacion Maria Luisa de Moreno. Con la guia de los docentes y especialmente de los profesores Jhon Palacios, Stiwar Asprilla y el apoyo del compañero de diplomado Oscar Eduardo Valencia Valencia
